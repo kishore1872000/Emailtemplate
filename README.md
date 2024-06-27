@@ -1,6 +1,4 @@
-Here's a sample README for your project:
 
----
 
 # Apple Watch Promotional Email Template
 
