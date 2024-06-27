@@ -511,18 +511,19 @@ p a {
     .text-section12 h1 {
         font-size: 20px;
         margin-left: -60px;
+        max-width: 600px;;
     }
     .text-section12 p {
         margin-top: 20px;
         margin-left: 40px;
         font-size: 32px;
-        width: 80%;
+        max-width: 600px;;
     }
     .text-section12 a {
         left: -80px;
     }
     .image-section12 img {
-        width: 100%;
+        max-width: 600px;;
     }
     .container13 {
         align-items: flex-start; 
@@ -534,12 +535,12 @@ p a {
         margin-top: 10px;
         font-size: 32px; 
         margin-left: 60px; 
-
     }
 
     .image13 img {
         margin-top: 50px;
         margin-left: 70px;
+         max-width: 600px;
     }
 
 }
